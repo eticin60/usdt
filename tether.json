@@ -8,7 +8,7 @@
   },
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": 11155111,
       "address": "0xB3FAa23E7bF5885D6CaFAF137947FaD06ECA4544",
       "name": "Tether USD",
       "symbol": "USDT",
