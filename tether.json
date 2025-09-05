@@ -1,12 +1,19 @@
 {
+  "name": "Custom Tether Token List",
+  "logoURI": "https://raw.githubusercontent.com/eticin60/usdt/main/tether-usdt-logo.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "tokens": [
     {
-      "chainId": 11155111,
-      "address": "0x342c600e44126C91125AC5c3d320D82aB766d1dd",
+      "chainId": 1,
+      "address": "0xB3FAa23E7bF5885D6CaFAF137947FaD06ECA4544",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/eticin60/usdt/main/tether-usdt-logo.png"
     }
   ]
 }
