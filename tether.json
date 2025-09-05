@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x342c600e44126C91125AC5c3d320D82aB766d1dd",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    }
+  ]
+}
